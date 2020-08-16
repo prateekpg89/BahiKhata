@@ -1,2 +1,2 @@
-# bahiKhata
-Android app to maintain ledgers
+# BahiKhata
+GCP backed Android app to maintain ledgers
