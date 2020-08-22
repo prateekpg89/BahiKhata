@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246315672806",
+    "firebase_url": "https://bahikhata-274009.firebaseio.com",
+    "project_id": "bahikhata-274009",
+    "storage_bucket": "bahikhata-274009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246315672806:android:2f833faaee7b57dd2f8727",
+        "android_client_info": {
+          "package_name": "com.praverma.bahikhata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246315672806-bit9pcd62mpkr6j9bhtvus3173qg7uj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeDEp-CaYvhcucpFvvNQw1HIlVnfvQBao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246315672806-bit9pcd62mpkr6j9bhtvus3173qg7uj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
